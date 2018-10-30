@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/natoine/um3opendata/issues"
   },
-  "homepage": "https://github.com/natoine/um3opendata#readme"
+  "homepage": "https://github.com/natoine/um3opendata#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
